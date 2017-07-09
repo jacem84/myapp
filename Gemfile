@@ -24,6 +24,7 @@ group :development do
   gem 'listen'
   gem 'spring'
   gem 'spring-watcher-listen'
+  gem 'pg'
 end
 
 group :test do
